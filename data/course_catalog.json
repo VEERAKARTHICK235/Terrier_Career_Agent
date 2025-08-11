@@ -1,0 +1,5 @@
+[
+  { "course_code": "CS 506", "course_name": "Introduction to Machine Learning", "provides_skills": ["Machine Learning", "Python", "Scikit-learn"] },
+  { "course_code": "CS 460", "course_name": "Introduction to Database Systems", "provides_skills": ["SQL", "Database Design"] },
+  { "course_code": "QM 222", "course_name": "Modeling Business Decisions", "provides_skills": ["Data Visualization", "Tableau"] }
+]

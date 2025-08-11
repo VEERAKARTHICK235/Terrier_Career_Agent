@@ -1,0 +1,12 @@
+{
+  "student_id": "U12345678",
+  "student_name": "Veera Karthick",
+  "major": "Artificial Intelligence",
+  "minor": "Statistics",
+  "courses": [
+    { "course_code": "CS 111", "course_name": "Intro to Computer Science I", "grade": "A-", "skills": ["Python", "Problem Solving"] },
+    { "course_code": "CS 112", "course_name": "Intro to Computer Science II", "grade": "A", "skills": ["Java", "Data Structures", "Algorithms"] },
+    { "course_code": "CS 237", "course_name": "Probability in Computing", "grade": "B+", "skills": ["Probability", "Statistics", "Python"] },
+    { "course_code": "CS 411", "course_name": "Software Engineering", "grade": "B+", "skills": ["Software Development Lifecycle", "Agile", "Teamwork"] }
+  ]
+}

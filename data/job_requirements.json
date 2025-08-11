@@ -1,0 +1,14 @@
+{
+  "Software Engineer": {
+    "required_skills": ["Python", "Java", "Data Structures", "Algorithms", "Software Development Lifecycle", "Git"]
+  },
+  "Data Analyst": {
+    "required_skills": ["Python", "SQL", "Statistics", "Probability", "Data Visualization", "Tableau"]
+  },
+  "UX Designer": {
+    "required_skills": ["User Research", "Wireframing", "Prototyping", "Figma", "Communication"]
+  },
+  "Machine Learning Engineer": {
+    "required_skills": ["Python", "Machine Learning", "Statistics", "Scikit-learn", "TensorFlow", "SQL"]
+  }
+}
